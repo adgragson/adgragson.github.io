@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I'm Austin."
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi! I'm Austin. 
+======
 I am a current Ph.D. student at North Carolina State University. I am studying early childhood education policy and program analysis with a focus on school-based Pre-K programs and Pre-K program leadership. Poke around my website to learn more about my research ranging from my consulting projects across education domains to my GIS mapping work of preschools!
 
 About Me
