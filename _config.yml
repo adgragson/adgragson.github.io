@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Austin D. Gragson"
-  avatar           : "EEPA_headshots-90.jpg"
+  avatar           : "/images/EEPA_headshots-90.jpg"
   bio              : "Early Childhood Education Policy Research, Ph.D. student at North Carolina State University"
   location         : "Raleigh, NC"
   employer         :
