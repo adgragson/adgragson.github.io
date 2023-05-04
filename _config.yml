@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Austin D. Gragson"
   avatar           : "EEPA_headshots-90.png"
-  bio              : "Early Childhood Education Policy Researcher"                        
-  moreinfo         : "Ph.D. Student at North Carolina State University"
+  bio              : "Early Childhood Education Policy Researcher <p>Ph.D. Student at North Carolina State University</p>"                   
   location         : "Raleigh, NC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
