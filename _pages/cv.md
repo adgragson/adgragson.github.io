@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* <strong>B.S. in Psychology</strong> with Distinction, Second Major in Anthropology, Minor in Chemistry, <i>The University of North Carolina at Chapel Hill, 2017</i>
+* <strong>B.S. in Psychology</strong> <i>with Distinction, Second Major in Anthropology, Minor in Chemistry, The University of North Carolina at Chapel Hill, 2017</i>
 * <strong>Ed.M. in Human Development and Psychology</strong>, <i>Harvard University, 2020</i>
-* <strong>Ph.D in Educational Evaluation and Program Analysis</strong>, focsued on Early Childhood Education Policy, <i>North Carolina State University, 2025 (expected)</i>
+* <strong>Ph.D in Educational Evaluation and Program Analysis</strong>, <i>focsued on Early Childhood Education Policy, North Carolina State University, 2025 (expected)</i>
 
 Work experience
 ======
