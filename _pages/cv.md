@@ -18,17 +18,19 @@ Education
 Work experience
 ======
 
-* Fall 2021-current: Research Assistant
+* Fall 2021-current: <strong>Research Assistant</strong>
   * North Carolina State University
   * Duties included: (1) Mixed methods research in preschool effectiveness and school-based preschool leadership, (2) program support for MSA principal candidate students, (3) research support for various projects including PBS program evaluations, digital equity in North Carolina, and NC Teaching Fellows program evaluations
   * Supervisor: (1) Dr. Michael Little, (2) Dr. Bonnie Fusarelli, (3) Dr. Callie Edwards
 
-* 2020-2021: Capacity Building Manager
+<p></p>
+
+* 2020-2021: <strong>Capacity Building Manager</strong>
   * Boston College
   * Duties included: Supporting capacity development on Sugira Muryango early childhood intervention in Rwanda
   * Supervisor: Dr. Theresa Betancourt
   
-* 2019-2020: Research Assistant
+* 2019-2020: <strong>Research Assistant</strong>
   * Harvard University
   * Duties included: Cultural Adaptations of Social Emotional Curriculum for West African context
   * Supervisor: Dr. Stephanie Jones
