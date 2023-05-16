@@ -20,7 +20,7 @@ Work experience
 
 * Fall 2021-current: <strong>Research Assistant</strong>
   * North Carolina State University
-  * Duties included: (1) Mixed methods research in preschool effectiveness and school-based preschool leadership, (2) program support for MSA principal candidate students, (3) research support for various projects including PBS program evaluations, digital equity in North Carolina, and NC Teaching Fellows program evaluations
+  * Duties include: (1) Mixed methods research in preschool effectiveness and school-based preschool leadership, (2) program support for MSA principal candidate students, (3) research support for various projects including PBS program evaluations, digital equity in North Carolina, and NC Teaching Fellows program evaluations
   * Supervisor: (1) Dr. Michael Little, (2) Dr. Bonnie Fusarelli, (3) Dr. Callie Edwards
 
 <p></p>
@@ -29,6 +29,8 @@ Work experience
   * Boston College
   * Duties included: Supporting capacity development on Sugira Muryango early childhood intervention in Rwanda
   * Supervisor: Dr. Theresa Betancourt
+
+<p></p>
   
 * 2019-2020: <strong>Research Assistant</strong>
   * Harvard University
