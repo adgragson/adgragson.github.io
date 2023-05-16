@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Psychology with Distinction, Second Major in Anthropology, Minor in Chemistry, The University of North Carolina at Chapel Hill, 2017
+* <bold>B.S. in Psychology </bold> with Distinction, Second Major in Anthropology, Minor in Chemistry, The University of North Carolina at Chapel Hill, 2017
 * Ed.M. in Human Development and Psychology, Harvard University, 2020
 * Ph.D in Educational Evaluation and Program Analysis, focsued on Early Childhood Education Policy, North Carolina State University, 2025 (expected)
 
